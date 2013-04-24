@@ -918,7 +918,7 @@
 		<FirstName>Clara</FirstName>
 		<LastName>Barton</LastName>
 	</Name>
-	<Kind personKindIdent="F" />
+	<Kind personKindIdent="FO" />
 	<Location>
 		<Locality>Washington</Locality>
 		<Region>D.C.</Region>
@@ -1109,7 +1109,7 @@
 		<FirstName>Anjeze</FirstName>
 		<LastName>Bojaxhiu</LastName>
 	</Name>
-	<Kind personKindIdent="F" />
+	<Kind personKindIdent="FO" />
 	<Location>
 		<Country>India</Country>
 	</Location>
@@ -1146,7 +1146,7 @@
 		<FirstName>Harriet</FirstName>
 		<LastName>Tubman</LastName>
 	</Name>
-	<Kind personKindIdent="H" />
+	<Kind personKindIdent="HM" />
 	<Location>
 		<Country>United States</Country>
 	</Location>
@@ -1218,7 +1218,7 @@
 
 <!-- PersonKind -->
 
-<PersonKind personKindIdent="F">
+<PersonKind personKindIdent="FO">
 <Name>Founder</Name>
 <Description>Person who established an institution</Description>
 </PersonKind>
@@ -1253,7 +1253,7 @@
 <Description>Someone employed to provide social services (especially to the disadvantaged).</Description>
 </PersonKind>
 
-<PersonKind personKindIdent="H">
+<PersonKind personKindIdent="HM">
 <Name>Humanitarian</Name>
 <Description>A person who seeks to promote human welfare; a philanthropist.</Description>
 </PersonKind>
