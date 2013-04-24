@@ -210,8 +210,10 @@
     	<Location>
       		<Country>Sri Lanka</Country>
     	</Location>
+    	<Location>
       		<Country>India</Country>
     	</Location>
+    	<Location>
       		<Country>Thailand</Country>
     	</Location>
 		<StartDateTime>
@@ -364,7 +366,23 @@
 		<Kind crisisKindIdent = "FC"/>
 		<Location>
       		<Region>West Africa</Region>
-      		<Country>Mali, Niger, Mauritania, Chad, and Burkina Faso</Country>
+      		<Country>Mali</Country>
+    	</Location>
+    	<Location>
+    		<Region>West Africa</Region>
+    		<Country>Niger</Country>
+    	</Location>
+    	<Location>
+    		<Region>West Africa</Region>
+    		<Country>Mauritania</Country>
+    	</Location>
+    	<Location>
+    		<Region>West Africa</Region>
+    		<Country>Chad</Country>
+    	</Location>
+    	<Location>
+    		<Region>West Africa</Region>
+    		<Country>Burkina Faso</Country>
     	</Location>
 		<StartDateTime>
       		<Date>2012-03-01</Date>
@@ -501,7 +519,7 @@
     	<ContactInfo>
       		<Telephone>+1 800 733 2767</Telephone>
       		<Fax>0</Fax>
-      		<Email>none</Email>
+      		<Email>support@redcrosstraining.org</Email>
       		<PostalAddress>
         		<StreetAddress>2025 E Street</StreetAddress>
         		<Locality>Washington</Locality>
@@ -619,7 +637,7 @@
     	<ContactInfo>
       		<Telephone>+32 2 281 63 19</Telephone>
       		<Fax>+32 2 281 69 34</Fax>
-      		<Email>none</Email>
+      		<Email>none@example.com</Email>
       		<PostalAddress>
         		<StreetAddress>Rue de la Loi 175</StreetAddress>
         		<Locality>Brussels</Locality>
@@ -1283,7 +1301,7 @@
 
   	<OrganizationKind organizationKindIdent="IO">
     	<Name>International Organization</Name>
-    	<Description>An organization with an international membership, scope, or presence.</Description>
+    	<Description>An organization with an international membership, scope, or presence</Description>
   	</OrganizationKind>
 
   
