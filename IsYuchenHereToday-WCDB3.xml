@@ -14,7 +14,7 @@
     </StartDateTime>
     <EconomicImpact>0</EconomicImpact>
     <ResourceNeeded>Foreign relations capital and a new U-2 spy plane.</ResourceNeeded>
-   	<WaysToHelp>Keep a cool head and don't let it end in a nuclear holocaust.</WaysToHelp>
+   	<WaysToHelp>Keep a cool head and dont let it end in a nuclear holocaust.</WaysToHelp>
     <ExternalResources>
       <ImageURL>https://upload.wikimedia.org/wikipedia/commons/8/84/Khrushchev_U2.gif</ImageURL>
       <VideoURL>https://www.youtube.com/watch?v=Eaf6cydnJG0</VideoURL>
@@ -335,10 +335,10 @@
     <Region>D.C.</Region>
     <Country>United States</Country>
   </Location>
-  <History>As one of the nation&apos;s premier humanitarian organizations, the American Red Cross is dedicated to helping people in need throughout the United States and, in association with other Red Cross networks, throughout the world. We depend on the many generous contributions of time, blood, and money from the American public to support our lifesaving services and programs. </History>
+  <History>As one of the nations premier humanitarian organizations, the American Red Cross is dedicated to helping people in need throughout the United States and, in association with other Red Cross networks, throughout the world. We depend on the many generous contributions of time, blood, and money from the American public to support our lifesaving services and programs. </History>
   <ContactInfo>
-    <Telephone>210 565 2334</Telephone>
-    <Fax></Fax>
+    <Telephone>12105652334</Telephone>
+    <Fax>12105652334</Fax>
     <Email>questions@af.mil</Email>
     <PostalAddress>
       <StreetAddress>1400 Defense Pentagon</StreetAddress>
@@ -373,8 +373,8 @@
     </Location>
     <History>It has helped out in most major world crises.</History>
     <ContactInfo>
-      <Telephone>1 800 733 2767</Telephone>
-      <Fax>202 303 4498</Fax>
+      <Telephone>18007332767</Telephone>
+      <Fax>12023034498</Fax>
       <Email>RedCross@example.com</Email>
       <PostalAddress>
         <StreetAddress>2025 E Street</StreetAddress>
@@ -409,13 +409,13 @@
     </Location>
     <History>Founded in the aftermath of WW2 by the UK and Irish Church</History>
     <ContactInfo>
-      <Telephone>44 0 20 7620 4444</Telephone>
-      <Fax></Fax>
-      <Email></Email>
+      <Telephone>4402076204444</Telephone>
+      <Fax>4402076204444</Fax>
+      <Email>christianaid@christianaid.com</Email>
       <PostalAddress>
         <StreetAddress>PO Box 100</StreetAddress>
         <Locality>London</Locality>
-		<Region>London</Region>
+		    <Region>London</Region>
         <PostalCode>SE1 7RT</PostalCode>
         <Country>UK</Country>
       </PostalAddress>
@@ -438,9 +438,9 @@
     </Location>
     <History>Founded after WW2 to act as the US foreign spy organisation.</History>
     <ContactInfo>
-      <Telephone>703 482 0623</Telephone>
-      <Fax>703 482 1739</Fax>
-      <Email></Email>
+      <Telephone>7034820623</Telephone>
+      <Fax>7034821739</Fax>
+      <Email>cia@cia.gov</Email>
       <PostalAddress>
         <StreetAddress>Central Intelligence Agency Office of Public Affairs</StreetAddress>
         <Locality>Washington</Locality>
@@ -470,9 +470,9 @@
     </Location>
     <History>Founded as US government arm dedicated to local disaster relief.</History>
     <ContactInfo>
-      <Telephone>800 621 3362 3362</Telephone>
-      <Fax>800 462 7585</Fax>
-      <Email></Email>
+      <Telephone>80062133623362</Telephone>
+      <Fax>8004627585</Fax>
+      <Email>fema@fema.com</Email>
       <PostalAddress>
         <StreetAddress>26 Federal Plaza</StreetAddress>
         <Locality>New York</Locality>
@@ -504,13 +504,13 @@
     </Location>
     <History>It has helped out in most major world crises.</History>
     <ContactInfo>
-      <Telephone>703 607 2584</Telephone>
-      <Fax></Fax>
-      <Email></Email>
+      <Telephone>7036072584</Telephone>
+      <Fax>7036072584</Fax>
+      <Email>nationalguard@ng.com</Email>
       <PostalAddress>
         <StreetAddress>111 S. George Mason Dr.</StreetAddress>
         <Locality>Arlington</Locality>
-        <Region> VA</Region>
+        <Region>VA</Region>
         <PostalCode>22204</PostalCode>
         <Country>United States</Country>
       </PostalAddress>
@@ -537,8 +537,8 @@
     </Location>
     <History>Provides Humanitarian Aid with a Focus on Children</History>
     <ContactInfo>
-      <Telephone>1 203 221 4030</Telephone>
-      <Fax>1 800 728 3843 </Fax>
+      <Telephone>12032214030</Telephone>
+      <Fax>18007283843</Fax>
       <Email>twebster@savechildren.org</Email>
       <PostalAddress>
         <StreetAddress>2000 L Street NW, Suite 500</StreetAddress>
@@ -567,8 +567,8 @@
     </Location>
     <History>Founded as Protestant charity for the poor in 1865.</History>
     <ContactInfo>
-      <Telephone>512 476 1111 </Telephone>
-      <Fax></Fax>
+      <Telephone>5124761111</Telephone>
+      <Fax>5124761111</Fax>
       <Email>john_carter@uss.salvationarmy.org</Email>
       <PostalAddress>
         <StreetAddress>501 E 8th St P.O. Box 1000 </StreetAddress>
@@ -605,9 +605,9 @@
     </Location>
     <History>International forum for foreign politics and matters concerning the world at large. Established to prevent further world wars after WW2.</History>
     <ContactInfo>
-      <Telephone></Telephone>
-      <Fax></Fax>
-      <Email></Email>
+      <Telephone>5124761111</Telephone>
+      <Fax>5124761111</Fax>
+      <Email>un@un.com</Email>
       <PostalAddress>
         <StreetAddress>405 E 42nd St</StreetAddress>
         <Locality>New York</Locality>
@@ -637,15 +637,15 @@
       <Locality>Geneva</Locality>
       <Country>Switzerland</Country>
     </Location>
-    <History>The League of Nations Health Organization was established following the First World War inside the League of Nations framework. According to the League's Covenant, it was to "endeavour to take steps in matters of international concern for the prevention and control of disease, even in cases of dire human hardship".</History>
+    <History>The League of Nations Health Organization was established following the First World War inside the League of Nations framework. According to the Leagues Covenant, it was to endeavour to take steps in matters of international concern for the prevention and control of disease, even in cases of dire human hardship.</History>
     <ContactInfo>
-      <Telephone>41 22 791 4807 </Telephone>
-      <Fax></Fax>
-      <Email></Email>
+      <Telephone>41227914807</Telephone>
+      <Fax>41227914807</Fax>
+      <Email>who@who.com</Email>
       <PostalAddress>
         <StreetAddress>Avenue Appia 20</StreetAddress>
         <Locality>Geneva 27</Locality>
-		<Region>Geneva</Region>
+		    <Region>Geneva</Region>
         <PostalCode>CH-1211</PostalCode>
         <Country>Switzerland</Country>
       </PostalAddress>
@@ -888,7 +888,7 @@
 
   <CrisisKind crisisKindIdent="EQ">
     <Name>Earthquake</Name>
-    <Description>The result of a sudden release of energy in the Earth&apos;s crust that creates seismic waves</Description>
+    <Description>The result of a sudden release of energy in the Earths crust that creates seismic waves</Description>
   </CrisisKind>
 
   <CrisisKind crisisKindIdent="TA">

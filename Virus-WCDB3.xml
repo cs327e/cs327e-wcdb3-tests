@@ -1074,7 +1074,6 @@
 	<Person personIdent="BKi-moon">
 		<Name>
 			<FirstName>Ban</FirstName>
-			<MiddleName></MiddleName>
 		  	<LastName>Ki-moon</LastName>
 		</Name>
 		<Kind personKindIdent="LD"/>
@@ -1309,7 +1308,7 @@
 	
 	<PersonKind personKindIdent="CEO">
     	<Name>Chief Executive Officer</Name>
-    	<Description>Top executive responsible for a firm or organization's overall operations and performance</Description>
+    	<Description>Top executive responsible for a firm or organizations overall operations and performance</Description>
   	</PersonKind>
 	
 	<PersonKind personKindIdent="LD">
