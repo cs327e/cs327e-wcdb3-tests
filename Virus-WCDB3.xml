@@ -782,8 +782,8 @@
       		<PostalAddress>
         		<StreetAddress>226 Causeway Street 5th Floor</StreetAddress>
         		<Locality>Boston</Locality>
-        		<Region></Region>
-        		<PostalCode>MA</PostalCode>
+        		<Region>MA</Region>
+        		<PostalCode>02114</PostalCode>
         		<Country>United States</Country>
       		</PostalAddress>
     	</ContactInfo>
