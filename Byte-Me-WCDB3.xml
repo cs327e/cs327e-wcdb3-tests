@@ -1146,7 +1146,7 @@
 		<FirstName>Harriet</FirstName>
 		<LastName>Tubman</LastName>
 	</Name>
-	<Kind personKindIdent="H" />
+	<Kind personKindIdent="HM" />
 	<Location>
 		<Country>United States</Country>
 	</Location>
@@ -1253,7 +1253,7 @@
 <Description>Someone employed to provide social services (especially to the disadvantaged).</Description>
 </PersonKind>
 
-<PersonKind personKindIdent="H">
+<PersonKind personKindIdent="HM">
 <Name>Humanitarian</Name>
 <Description>A person who seeks to promote human welfare; a philanthropist.</Description>
 </PersonKind>
