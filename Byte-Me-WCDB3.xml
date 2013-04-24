@@ -918,7 +918,7 @@
 		<FirstName>Clara</FirstName>
 		<LastName>Barton</LastName>
 	</Name>
-	<Kind personKindIdent="F" />
+	<Kind personKindIdent="FO" />
 	<Location>
 		<Locality>Washington</Locality>
 		<Region>D.C.</Region>
@@ -1109,7 +1109,7 @@
 		<FirstName>Anjeze</FirstName>
 		<LastName>Bojaxhiu</LastName>
 	</Name>
-	<Kind personKindIdent="F" />
+	<Kind personKindIdent="FO" />
 	<Location>
 		<Country>India</Country>
 	</Location>
@@ -1218,7 +1218,7 @@
 
 <!-- PersonKind -->
 
-<PersonKind personKindIdent="F">
+<PersonKind personKindIdent="FO">
 <Name>Founder</Name>
 <Description>Person who established an institution</Description>
 </PersonKind>
