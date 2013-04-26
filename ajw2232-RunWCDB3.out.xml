@@ -1,0 +1,338 @@
+<WorldCrises>
+  <Crisis crisisIdent="Enron_EC_2001">
+    <Name>Enron Collapse</Name>
+    <Kind crisisKindIdent="EC" />
+    <Location>
+      <Locality>Houston</Locality>
+      <Region>TX</Region>
+      <Country>United States</Country>
+    </Location>
+    <StartDateTime>
+      <Date>2001-08-14</Date>
+    </StartDateTime>
+    <HumanImpact>
+      <Type>Financial Loss</Type>
+      <Number>60000000000</Number>
+    </HumanImpact>
+    <EconomicImpact>Greatest stock value loss in peaceful times and the largest bankruptcy in American history.</EconomicImpact>
+    <WaysToHelp>Fund Raisers</WaysToHelp>
+    <ResourceNeeded>Money</ResourceNeeded>
+    <ExternalResources>
+      <ImageURL>http://rememberinghistory.files.wordpress.com/2012/11/enron_logo.jpg%3Fw%3D610</ImageURL>
+      <VideoURL>http://www.youtube.com/watch?v=QS5aosxUfvY</VideoURL>
+      <MapURL>https://maps.google.com/maps?hl=enampq=1400+smith+street+houston+77002ampbav=on.2,or.r_gc.r_pw.r_cp.r_qf.ampbvm=bv.43287494,d.b2Iampbiw=640ampbih=679ampum=1ampie=UTF-8ampsa=Namptab=wl</MapURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent="KLay" />
+      <RelatedPerson personIdent="AGreenspan" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="SEC" />
+    </RelatedOrganizations>
+  </Crisis>
+
+  <Crisis crisisIdent="EC_1929">
+    <Name>Great Depression</Name>
+    <Kind crisisKindIdent="EC" />
+    <Location>
+      <Locality>New York City</Locality>
+      <Region>New York</Region>
+      <Country>United States</Country>
+    </Location>
+    <StartDateTime>
+      <Date>1941-12-08</Date>
+    </StartDateTime>
+    <EndDateTime>
+      <Date>1941-12-08</Date>
+    </EndDateTime>
+    <HumanImpact>
+      <Type>Financial loss and emotional struggle</Type>
+      <Number>0</Number>
+    </HumanImpact>
+    <EconomicImpact>US economy declined after the crash, and many other countries began to follow suit.</EconomicImpact>
+    <WaysToHelp />
+    <ResourceNeeded />    
+    <ExternalResources>
+      <ImageURL>http://upload.wikimedia.org/wikipedia/commons/5/54/Lange-MigrantMother02.jpg</ImageURL>
+      <VideoURL>http://www.youtube.com/watch?v=TpfY8kh5lUw</VideoURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent="FDRoosevelt" />
+      <RelatedPerson personIdent="BSBernanke" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="FDIC" />
+      <RelatedOrganization organizationIdent="FRS" />
+    </RelatedOrganizations>
+  </Crisis>
+
+  <Crisis crisisIdent="Oil_EC_1973">
+    <Name>1973 Oil Crisis</Name>
+    <Kind crisisKindIdent="EC" />
+    <Location>
+      <Country>United States</Country>
+    </Location>
+    <StartDateTime>
+      <Date>1973-10-16</Date>
+    </StartDateTime>
+    <EndDateTime>
+      <Date>1973-10-16</Date>
+    </EndDateTime>
+    <HumanImpact>
+      <Type>Financial loss as well as panic over the possibility of war.</Type>
+      <Number>0</Number>
+    </HumanImpact>
+    <WaysToHelp />
+    <ResourceNeeded>Money</ResourceNeeded>
+    <EconomicImpact>The price of oil increased 400% leading to economic leverage and wealth for oil-producing countries in the middle east.</EconomicImpact>
+    <ExternalResources>
+      <ImageURL>http://upload.wikimedia.org/wikipedia/commons/e/ed/FLAG_POLICY_DURING_THE_1973_oil_crisis.gif</ImageURL>
+      <VideoURL>http://www.youtube.com/watch?v=VCLRlVxOH-Q</VideoURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent="BSBernanke" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="FRS" />
+    </RelatedOrganizations>
+  </Crisis>
+
+  <Crisis crisisIdent="WTC_TA_2001">
+    <Name>World Trade Center Attacks</Name>
+    <Kind crisisKindIdent="WAR" />
+    <Location>
+      <Locality>New York City</Locality>
+      <Region>New York</Region>
+      <Country>United States</Country>
+    </Location>
+    <StartDateTime>
+      <Date>2001-09-11</Date>
+    </StartDateTime>
+    <HumanImpact>
+      <Type>Loss of the feeling of security. Increase in patriotism, home and family, church, and blood donations. Stocks fell and there was a huge loss over the months following.</Type>
+      <Number>0</Number>
+    </HumanImpact>
+    <EconomicImpact>Stock exchange closed for a week, stocks fell and billions of dollars were lost.</EconomicImpact>
+    <WaysToHelp />
+    <ResourceNeeded />
+    <ExternalResources>
+      <ImageURL>http://spinalcolumnradio.files.wordpress.com/2010/07/911-twin-towers-fire.jpg</ImageURL>
+      <VideoURL>https://www.youtube.com/watch?v=_u9kieqGppE</VideoURL>
+      <MapURL>https://maps.google.com/maps?hl=enampq=1+world+trade+center+new+york+street+addressampie=UTF-8amphq=amphnear=0x89c25a1bcfb6ae35:0x83b61a4dc69b3439,One+World+Trade+Center,+Vesey+St,+New+York,+NY+10006ampgl=usampei=TEo4UdO5LIqA2gXlyYEQampved=0CDAQ8gEwAA</MapURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent="GWBush" />
+      <RelatedPerson personIdent="BHObama" />
+      <RelatedPerson personIdent="SHussein" />
+      <RelatedPerson personIdent="OBLaden" />
+      <RelatedPerson personIdent="AGreenspan" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="CIA" />
+    </RelatedOrganizations>
+  </Crisis>
+
+
+  <Crisis crisisIdent="Corn_DS_1970">
+    <Name>United States Corn Epidemic of 1970</Name>
+    <Kind crisisKindIdent="DI" />
+    <Location>
+      <Country>United States</Country>
+    </Location>
+    <StartDateTime>
+      <Date>1970-02-01</Date>
+    </StartDateTime>
+    <HumanImpact>
+      <Type>Financial loss and food shortage</Type>
+      <Number>0</Number>
+    </HumanImpact>
+    <EconomicImpact>Spikes in corn and livestock trading overnight, leading to some farmers becoming extremely wealthy overnight.</EconomicImpact>
+    <WaysToHelp />
+    <ResourceNeeded />
+    <ExternalResources>
+      <ImageURL>http://www2.nau.edu/~bio372-c/images/sclb4s.gif</ImageURL>
+      <ImageURL>http://www2.nau.edu/~bio372-c/images/sclb4s.gif</ImageURL>
+    </ExternalResources>
+    <RelatedPersons>
+      <RelatedPerson personIdent="FDRoosevelt" />
+      <RelatedPerson personIdent="CMHardin" />
+    </RelatedPersons>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="USDA" />
+    </RelatedOrganizations>
+  </Crisis>
+
+  <Organization organizationIdent="USDA">
+    <Name>United States Department of Agriculture</Name>
+    <Kind organizationKindIdent="AD" />
+    <Location>
+      <Locality>Washington</Locality>
+      <Region>D.C.</Region>
+      <Country>United States</Country>
+    </Location>
+    <History>On May 15, 1862, Abraham Lincoln signed into law the Agricultural Act that established the U.S. Department of Agriculture. Since then, the Department has had a rich and varied history. The resources below explore that history, along with the history and organization of USDA's associated agencies and staff offices.</History>
+    <ContactInfo>
+      <Telephone>2027202791</Telephone>
+      <Fax>N/A</Fax>
+      <Email>N/A</Email>
+      <PostalAddress>
+        <StreetAddress>1400 Independence Ave., S.W.</StreetAddress>
+        <Locality>Washington</Locality>
+        <Region>D.C.</Region>
+        <PostalCode>20250</PostalCode>
+        <Country>United States</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL>https://www.google.com/search?hl=enamprlz=1C2DVCR_enUS407US456ampq=USDA+imagesampbav=on.2,or.r_gc.r_pw.r_qf.ampbvm=bv.43287494,d.b2Iampbiw=1241ampbih=584ampum=1ampie=UTF-8amptbm=ischampsource=ogampsa=Namptab=wiampei=w_M3UfOvN4rA2AXRtoDYBQ#imgrc=3587T5k4YZYdfM%3A%3BDip-rsLNM2aALM%3Bhttp%253A%252F%252Fionenewsone.files.wordpress.com%252F2011%252F05%252Fusda_logo_rev.gif%3Bhttp%253A%252F%252Fnewsone.com%252F1227425%252Fusda-civil-rights-shirley-sherrod%252F%3B1233%3B850;</ImageURL>
+      <VideoURL>http://video.foxbusiness.com/v/2174388754001/usda-under-fire-for-controversial-cultural-sensitivity-training/;</VideoURL>
+      <MapURL>https://maps.google.com/maps?hl=enampq=1400+Independence+Ave.,+S.W.ampie=UTF-8amphq=amphnear=0x89b7b79fa4334315:0xfb36514e8557abaf,1400+Independence+Ave+SW,+Washington,+DC+20024ampgl=usampei=ePY3UeLYCqOU2wWR4IGoCgampved=0CDMQ8gEwAQ;</MapURL>
+      <SocialNetworkURL>http://www.facebook.com/pages/USDA/106119542761892?fref=ts</SocialNetworkURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="Corn_DS_1970" />
+    </RelatedCrises>
+    <RelatedPersons>
+      <RelatedPerson personIdent="GWBush" />
+      <RelatedPerson personIdent="BHObama" />
+      <RelatedPerson personIdent="CMHardin" />
+    </RelatedPersons>
+  </Organization>
+
+  <Organization organizationIdent="SEC">
+    <Name>U.S. Securities and Exchange Commission</Name>
+    <Kind organizationKindIdent="NS" />
+    <Location>
+      <Locality>Washington</Locality>
+      <Region>D.C.</Region>
+      <Country>United States</Country>
+    </Location>
+    <History>Prior to the enactment of the federal securities laws and the creation of the SEC, there existed so-called blue sky laws. They were enacted and enforced at the state level, and regulated the offering and sale of securities to protect the public from fraud. Though the specific provisions of these laws varied among states, they all required the registration of all securities offerings and sales, as well as of every U.S. stock broker and brokerage firm.</History>
+    <ContactInfo>
+      <Telephone>2029428088</Telephone>
+      <Fax>N/A</Fax>
+      <Email>N/A</Email>
+      <PostalAddress>
+        <StreetAddress>100 F Street, NE</StreetAddress>
+        <Locality>Washington</Locality>
+        <Region>D.C.</Region>
+        <PostalCode>20549</PostalCode>
+        <Country>United States</Country>
+      </PostalAddress>
+    </ContactInfo>
+    <ExternalResources>
+      <ImageURL>http://www.nysun.com/pics/8339.jpg</ImageURL>
+      <VideoURL>http://www.youtube.com/watch?feature=player_detailpageampv=N-kdGmt1OLs</VideoURL>
+      <MapURL>https://maps.google.com/maps?hl=enampq=map+of+the+us+securities+and+exchange+commissionampie=UTF-8ampei=KmdcUZ2_NsH0qAGQh4FQampsqi=2ampved=0CAgQ_AUoAg</MapURL>
+      <SocialNetworkURL>http://www.facebook.com/pages/US-Securities-and-Exchange-Commission/109531262399131?fref=ts</SocialNetworkURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="Enron_EC_2001" />
+    </RelatedCrises>
+    <RelatedPersons>
+      <RelatedPerson personIdent="GWBush" />
+      <RelatedPerson personIdent="BHObama" />
+      <RelatedPerson personIdent="KLay" />
+    </RelatedPersons>
+  </Organization>
+
+  <Person personIdent="FDRoosevelt">
+    <Name>
+      <FirstName>Franklin</FirstName>
+      <MiddleName>Delano</MiddleName>
+      <LastName>Roosevelt</LastName>
+    </Name>
+    <Kind personKindIdent="PR" />
+    <Location>
+      <Locality>Hyde Park</Locality>
+      <Region>New York</Region>
+      <Country>United States</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL>http://media.npr.org/assets/img/2012/12/18/ap07021209188_wide-5c891c581ba4583ae9dd3c2f9e16e95121c37d12-s6-c10.jpg</ImageURL>
+      <VideoURL>http://www.history.com/topics/franklin-d-roosevelt/videos#fdr-a-voice-of-hope</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="EC_1929" />
+      <RelatedCrisis crisisIdent="World_WAR_II_1939" />
+    </RelatedCrises>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="FDIC" />
+      <RelatedOrganization organizationIdent="FRS" />
+    </RelatedOrganizations>
+  </Person>
+
+  <Person personIdent="GWBush">
+    <Name>
+      <FirstName>George</FirstName>
+      <MiddleName>Walker</MiddleName>
+      <LastName>Bush</LastName>
+      <Suffix />
+    </Name>
+    <Kind personKindIdent="PR" />
+    <Location>
+      <Locality>New Haven</Locality>
+      <Region>Connecticut</Region>
+      <Country>United States</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL>http://www.whitehouse.gov/sites/default/files/first-family/masthead_image/43gb_header_sm.jpg?1250888303</ImageURL>
+      <VideoURL>http://www.georgewbushlibrary.smu.edu/en/Photos-and-Videos/Video-Clips/Video-Clips.aspx</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="Enron_EC_2001" />
+      <RelatedCrisis crisisIdent="EC_2008" />
+      <RelatedCrisis crisisIdent="WTC_TA_2001" />
+      <RelatedCrisis crisisIdent="WTC_TA_2001" />
+    </RelatedCrises>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="FDIC" />
+      <RelatedOrganization organizationIdent="FRS" />
+      <RelatedOrganization organizationIdent="USDA" />
+      <RelatedOrganization organizationIdent="SEC" />
+      <RelatedOrganization organizationIdent="UN" />
+      <RelatedOrganization organizationIdent="LEH" />
+      <RelatedOrganization organizationIdent="NATO" />
+      <RelatedOrganization organizationIdent="ALQ" />
+      <RelatedOrganization organizationIdent="CIA" />
+    </RelatedOrganizations>
+  </Person>
+
+  <Person personIdent="BHObama">
+    <Name>
+      <FirstName>Barack</FirstName>
+      <MiddleName>Hussein</MiddleName>
+      <LastName>Obama</LastName>
+      <Suffix>II</Suffix>
+    </Name>
+    <Kind personKindIdent="PR" />
+    <Location>
+      <Locality>Honolulu</Locality>
+      <Region>Hawaii</Region>
+      <Country>United States</Country>
+    </Location>
+    <ExternalResources>
+      <ImageURL>http://www.whitehouse.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/09_p021213ck-0221.jpg</ImageURL>
+      <VideoURL>http://www.whitehouse.gov/photos-and-video/video/2013/03/04/president-obama-makes-personnel-announcement</VideoURL>
+    </ExternalResources>
+    <RelatedCrises>
+      <RelatedCrisis crisisIdent="EC_2008" />
+      <RelatedCrisis crisisIdent="WTC_TA_2001" />
+    </RelatedCrises>
+    <RelatedOrganizations>
+      <RelatedOrganization organizationIdent="FDIC" />
+      <RelatedOrganization organizationIdent="FRS" />
+      <RelatedOrganization organizationIdent="USDA" />
+      <RelatedOrganization organizationIdent="SEC" />
+      <RelatedOrganization organizationIdent="UN" />
+      <RelatedOrganization organizationIdent="LEH" />
+      <RelatedOrganization organizationIdent="NATO" />
+      <RelatedOrganization organizationIdent="ALQ" />
+      <RelatedOrganization organizationIdent="CIA" />
+    </RelatedOrganizations>
+  </Person>
+</WorldCrises>
+
+
+
+
